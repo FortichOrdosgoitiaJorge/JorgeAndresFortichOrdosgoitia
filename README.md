@@ -1,4 +1,4 @@
-# 👋 Hola, soy Jorge Andrés Fortich
+#  Hola, soy Jorge Andrés Fortich
 
 <div align="center">
 
@@ -8,15 +8,15 @@
 
 ---
 
-# 🚀 Sobre mí
+#  Sobre mí
 
-🎓 Estudiante de Ingeniería de Sistemas en la Pontificia Universidad Javeriana.
+ Estudiante de Ingeniería de Sistemas en la Pontificia Universidad Javeriana.
 
-💻 Programador junior apasionado por el desarrollo de software, Machine Learning y tecnologías web.
+ Programador junior apasionado por el desarrollo de software, Machine Learning y tecnologías web.
 
-🎭 También tengo experiencia artística y trabajo frente a cámara, lo que me ha permitido fortalecer habilidades de comunicación, creatividad y liderazgo.
+ También tengo experiencia artística y trabajo frente a cámara, lo que me ha permitido fortalecer habilidades de comunicación, creatividad y liderazgo.
 
-⚡ Me considero una persona:
+ Me considero una persona:
 - Social
 - Analítica
 - Responsable
@@ -26,7 +26,7 @@
 
 ---
 
-# 🧠 Lenguajes y Tecnologías
+#  Lenguajes y Tecnologías
 
 <div align="center">
 
