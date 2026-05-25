@@ -36,7 +36,7 @@
 
 ---
 
-# 💼 Áreas en las que puedo desempeñarme
+#  Áreas en las que puedo desempeñarme
 
 ✅ Desarrollo Web Frontend  
 ✅ Desarrollo Web Backend  
@@ -50,7 +50,7 @@
 
 ---
 
-# 📊 Estadísticas de GitHub
+#  Estadísticas de GitHub
 
 <div align="center">
 
@@ -62,7 +62,7 @@
 
 ---
 
-# 🔥 Actividad
+#  Actividad
 
 <div align="center">
 
@@ -72,17 +72,17 @@
 
 ---
 
-# 🌎 Contacto
+#  Contacto
 
-📧 jorgeandresfortich@gmail.com
+ jorgeandresfortich@gmail.com
 
 📍 Bogotá D.C., Colombia
 
-💼 LinkedIn:
+ LinkedIn:
 www.linkedin.com/in/jorge-fortich-00b10a322
 
 ---
 
-# 🎯 Objetivo Profesional
+#  Objetivo Profesional
 
 Mi objetivo es seguir fortaleciendo mis habilidades en desarrollo de software, inteligencia artificial y tecnologías web, participando en proyectos innovadores que me permitan crecer profesionalmente y generar soluciones tecnológicas de impacto.
