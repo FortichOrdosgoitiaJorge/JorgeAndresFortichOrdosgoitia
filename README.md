@@ -12,13 +12,13 @@
 
 ---
 
-# 👋 Hola, soy Jorge Andrés Fortich
+#  Hola, soy Jorge Andrés Fortich
 
-🎓 Estudiante de Ingeniería de Sistemas en la Pontificia Universidad Javeriana.
+ Estudiante de Ingeniería de Sistemas en la Pontificia Universidad Javeriana.
 
-💻 Programador junior apasionado por el desarrollo de software, inteligencia artificial, Machine Learning y tecnologías web.
+ Programador junior apasionado por el desarrollo de software, inteligencia artificial, Machine Learning y tecnologías web.
 
-🎭 También tengo experiencia artística y trabajo frente a cámara, lo que ha fortalecido mi creatividad, comunicación y capacidad de liderazgo.
+ También tengo experiencia artística y trabajo frente a cámara, lo que ha fortalecido mi creatividad, comunicación y capacidad de liderazgo.
 
 ⚡ Me considero una persona:
 - Analítica
@@ -31,7 +31,7 @@
 
 ---
 
-# 🚀 Sobre mí
+#  Sobre mí
 
 Actualmente me encuentro fortaleciendo mis habilidades en:
 
@@ -48,7 +48,7 @@ Mi objetivo es participar en proyectos innovadores que me permitan crecer profes
 
 ---
 
-# 🧠 Lenguajes y Tecnologías
+#  Lenguajes y Tecnologías
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,python,java,javascript,r,html,css,git,github,vscode,mysql" />
@@ -56,22 +56,22 @@ Mi objetivo es participar en proyectos innovadores que me permitan crecer profes
 
 ---
 
-# 💼 Áreas en las que puedo desempeñarme
+#  Áreas en las que puedo desempeñarme
 
 | Área | Descripción |
 |---|---|
-| 💻 Desarrollo Frontend | Creación de interfaces web modernas e interactivas |
-| ⚙️ Desarrollo Backend | Lógica de servidores y aplicaciones |
-| 🧠 Machine Learning | Desarrollo de modelos de IA |
-| 🗄️ Bases de Datos | Gestión y mantenimiento de datos |
-| 🌐 Desarrollo Web | Diseño y construcción de páginas web |
-| 🔧 Soporte Técnico | Solución de problemas tecnológicos |
-| 📊 Automatización | Optimización de procesos |
-| 🏋️ Apps Deportivas | Desarrollo de aplicaciones relacionadas al deporte |
+|  Desarrollo Frontend | Creación de interfaces web modernas e interactivas |
+|  Desarrollo Backend | Lógica de servidores y aplicaciones |
+|  Machine Learning | Desarrollo de modelos de IA |
+|  Bases de Datos | Gestión y mantenimiento de datos |
+|  Desarrollo Web | Diseño y construcción de páginas web |
+|  Soporte Técnico | Solución de problemas tecnológicos |
+|  Automatización | Optimización de procesos |
+|  Apps Deportivas | Desarrollo de aplicaciones relacionadas al deporte |
 
 ---
 
-# 📚 Actualmente aprendiendo
+#  Actualmente aprendiendo
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nodejs,spring,flutter" />
@@ -79,7 +79,7 @@ Mi objetivo es participar en proyectos innovadores que me permitan crecer profes
 
 ---
 
-# 📊 Estadísticas de GitHub
+#  Estadísticas de GitHub
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TUUSUARIO&show_icons=true&theme=tokyonight&hide_border=true"/>
@@ -97,7 +97,7 @@ Mi objetivo es participar en proyectos innovadores que me permitan crecer profes
 
 ---
 
-# 📈 Gráfica de actividad
+#  Gráfica de actividad
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=TUUSUARIO&theme=tokyo-night&hide_border=true"/>
@@ -113,7 +113,7 @@ Mi objetivo es participar en proyectos innovadores que me permitan crecer profes
 
 ---
 
-# 🐍 Snake Animation
+#  Snake Animation
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
@@ -121,7 +121,7 @@ Mi objetivo es participar en proyectos innovadores que me permitan crecer profes
 
 ---
 
-# 🚀 Proyectos destacados
+#  Proyectos destacados
 
 ## 🌸 Red Neuronal Iris
 Proyecto de Machine Learning desarrollado en Python utilizando redes neuronales para clasificar flores automáticamente según sus características físicas.
@@ -143,7 +143,7 @@ Proyectos enfocados en:
 
 ---
 
-# 📷 Vista Tecnológica
+#  Vista Tecnológica
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600">
@@ -153,18 +153,18 @@ Proyectos enfocados en:
 
 # 🌎 Contacto
 
-📧 jorgeandresfortich@gmail.com
+ jorgeandresfortich@gmail.com
 
 📍 Bogotá D.C., Colombia
 
-📱 Instagram: @jorgefortich04
+ Instagram: @jorgefortich04
 
-💼 LinkedIn:  
+ LinkedIn:  
 https://www.linkedin.com/
 
 ---
 
-# 🎯 Objetivo Profesional
+#  Objetivo Profesional
 
 Busco seguir creciendo como desarrollador de software y profesional tecnológico, fortaleciendo mis conocimientos en inteligencia artificial, desarrollo web y programación avanzada para contribuir en proyectos innovadores y de alto impacto.
 
